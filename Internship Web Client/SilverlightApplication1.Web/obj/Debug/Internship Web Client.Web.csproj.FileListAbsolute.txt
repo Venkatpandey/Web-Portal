@@ -1,0 +1,15 @@
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\Internship Web Client.Web.csprojResolveAssemblyReference.cache
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\Desktop\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Desktop\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\Desktop\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\Internship Web Client.Web.csprojResolveAssemblyReference.cache
+C:\Users\Venkat Pandey\Desktop\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Desktop\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+D:\Venkat's Files\SRH FH Heidelberg\Yass_Lecture\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+D:\Venkat's Files\SRH FH Heidelberg\Yass_Lecture\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+D:\Venkat's Files\SRH FH Heidelberg\Yass_Lecture\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\Internship Web Client.Web.csprojResolveAssemblyReference.cache
+D:\Venkat's Files\SRH FH Heidelberg\Yass_Lecture\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+D:\Venkat's Files\SRH FH Heidelberg\Yass_Lecture\Silverlight_ Venkat Pandey\Project\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb

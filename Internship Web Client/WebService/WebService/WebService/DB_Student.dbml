@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="DB_StudentDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="TR_Students">
+    <Type Name="TR_Student">
+      <Column Name="td_FirstName" Type="System.String" CanBeNull="false" />
+      <Column Name="td_LastName" Type="System.String" CanBeNull="false" />
+      <Column Name="td_GroupNumber" Type="System.String" CanBeNull="false" />
+      <Column Name="td_MatriculationNumber" Type="System.String" CanBeNull="false" />
+      <Column Name="td_Password" Type="System.String" CanBeNull="false" />
+      <Column Name="td_IsApplicationSend" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="td_IsCompleted" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="td_DateFirstContact" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_DateApplicationSend" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_DateCompletionSend" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_Start" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_End" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_CompanyName" Type="System.String" CanBeNull="false" />
+      <Column Name="td_Departmant" Type="System.String" CanBeNull="false" />
+      <Column Name="td_StreetAndNumber" Type="System.String" CanBeNull="false" />
+      <Column Name="td_PIN" Type="System.String" CanBeNull="false" />
+      <Column Name="td_City" Type="System.String" CanBeNull="false" />
+      <Column Name="td_Activity" Type="System.String" CanBeNull="false" />
+      <Column Name="td_CoachName" Type="System.String" CanBeNull="false" />
+      <Column Name="td_CoachPhone" Type="System.String" CanBeNull="false" />
+      <Column Name="td_CompanyRating" Type="System.Int32" CanBeNull="false" />
+      <Column Name="td_InternshipRating" Type="System.Int32" CanBeNull="false" />
+      <Column Name="td_StudentComment" Type="System.String" CanBeNull="false" />
+      <Column Name="td_InternshipAccept" Type="System.Boolean" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="TR_Groups">
+    <Type Name="TR_Group">
+      <Column Name="td_GroupName" Type="System.String" CanBeNull="false" />
+      <Column Name="td_EarliestStartOfInternship" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_LatestStartOfInternship" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="td_WorkingDays" Type="System.Int32" CanBeNull="false" />
+      <Column Name="td_GroupNumber" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

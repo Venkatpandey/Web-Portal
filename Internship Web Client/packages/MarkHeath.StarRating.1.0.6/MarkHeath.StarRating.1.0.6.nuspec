@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MarkHeath.StarRating</id>
+    <version>1.0.6</version>
+    <title>Silverlight Star Rating Control</title>
+    <authors>Mark Heath</authors>
+    <owners>Mark Heath</owners>
+    <licenseUrl>http://starratingcontrol.codeplex.com/license</licenseUrl>
+    <projectUrl>http://starratingcontrol.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Star Rating Control for Silverlight 4</description>
+    <summary>Star Rating Control for Silverlight 4</summary>
+    <tags>Silverlight controls</tags>
+  </metadata>
+</package>

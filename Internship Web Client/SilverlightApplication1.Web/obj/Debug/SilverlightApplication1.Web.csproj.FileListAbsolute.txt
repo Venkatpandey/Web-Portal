@@ -1,0 +1,9 @@
+C:\Users\Venkat Pandey\documents\visual studio 2012\Projects\SilverlightApplication1\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\documents\visual studio 2012\Projects\SilverlightApplication1\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\documents\visual studio 2012\Projects\SilverlightApplication1\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\documents\visual studio 2012\Projects\SilverlightApplication1\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\Documents\visual studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Documents\visual studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Venkat Pandey\Documents\visual studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Venkat Pandey\Documents\visual studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Venkat Pandey\Documents\visual studio 2012\Projects\Internship Web Client\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb

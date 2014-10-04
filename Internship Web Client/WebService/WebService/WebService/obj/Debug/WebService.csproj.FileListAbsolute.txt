@@ -1,0 +1,9 @@
+C:\Users\Alexander\Desktop\WebService\WebService\bin\WebService.dll
+C:\Users\Alexander\Desktop\WebService\WebService\bin\WebService.pdb
+C:\Users\Alexander\Desktop\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Alexander\Desktop\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\SilverlightApplication1\WebService\WebService\WebService\bin\WebService.dll
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\SilverlightApplication1\WebService\WebService\WebService\bin\WebService.pdb
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\SilverlightApplication1\WebService\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Venkat Pandey\Documents\Visual Studio 2012\Projects\SilverlightApplication1\WebService\WebService\WebService\obj\Debug\WebService.pdb
